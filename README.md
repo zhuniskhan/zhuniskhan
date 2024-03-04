@@ -51,8 +51,7 @@
 <a href="https://instagram.com/astiwxe/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -62,7 +61,7 @@
 
 <br/>
 
-## Recent Blog Posts
+## Vibing to: 🎧
 
 <br/>
 
@@ -72,8 +71,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=zhuniskhan&&style=flat-square" align="center" />
-</div>  
-
+</div>
 
 <br/>
 
