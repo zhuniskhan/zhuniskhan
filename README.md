@@ -4,7 +4,7 @@
 
 ## My Skill Set
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td>
 
 ### Frontend
 
@@ -19,8 +19,6 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
 ### Backend
 
 <div align="center">  
@@ -29,8 +27,6 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
 
 </td></tr></table>
 
@@ -57,7 +53,9 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zhuniskhan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuniskhan&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuniskhan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
