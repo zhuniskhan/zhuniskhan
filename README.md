@@ -55,14 +55,6 @@
 
 <br/>
 
-## Vibing to: 🎧
-
-<br/>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31yexxxt4l2dcoiwpmbl6brzx734&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>
-
-<br/>
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=zhuniskhan&&style=flat-square" align="center" />
 </div>
